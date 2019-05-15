@@ -1,0 +1,5 @@
+aws_region = "ap-south-1"
+namespace = "cloudnuke"
+aws_instance_ami = "ami-007d5db58754fa284"
+aws_instance_type = "t3.small"
+ssh_key_name = "cloudnuke-key"
